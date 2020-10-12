@@ -32,3 +32,7 @@ Scriptable TestFlight Link: https://testflight.apple.com/join/uN1vTqxk
 
 
 ***
+
+<img src="images/custom_calendar.png" height="120"/>
+
+- [Customizable Calendar](https://gist.github.com/rudotriton/b51d227c3d1d9cb497829ae45583224f) by [@rudotriton](https://github.com/rudotriton)
