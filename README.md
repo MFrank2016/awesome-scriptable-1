@@ -26,7 +26,7 @@ Scriptable TestFlight Link: https://testflight.apple.com/join/uN1vTqxk
 
 ***
 
-<img src="images/TeslaFi_Screen.v8.png" width="240"/>
+<img src="images/TeslaFi.png" width="120"/>
 
 - [TeslaFi Widget](https://github.com/DrieStone/TeslaFi-Widget) by [@driestone](https://github.com/driestone)  
 
