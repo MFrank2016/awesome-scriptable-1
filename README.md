@@ -18,3 +18,10 @@ Scriptable TestFlight Link: https://testflight.apple.com/join/uN1vTqxk
 - [Date and Greeting with Unsplash Collection Background](https://gist.github.com/cassianomon/efffbe09d20013986cd4ffc0f362a3e2) by [@cassianomon](https://github.com/cassianomon)  
 
 ***
+
+<img src="images/TeslaFi_Screen.v8.png" width="240"/>
+
+- [TeslaFi Widget](https://github.com/DrieStone/TeslaFi-Widget) by [@driestone](https://github.com/driestone)  
+
+
+***
