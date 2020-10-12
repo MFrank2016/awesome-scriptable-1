@@ -17,6 +17,8 @@ Scriptable TestFlight Link: https://testflight.apple.com/join/uN1vTqxk
 
 ### Widgets:
 
+<img src="images/spotify_now_playing.png" width="120"/>
+
 - [Spotify Now Playing](https://gist.github.com/marco79cgn/79a6a265d978dc22cc2a12058b24e02b) by [@marco79cgn](https://github.com/marco79cgn)  
 ***
 
