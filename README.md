@@ -1,9 +1,3 @@
-<p align="center">
-    <a href="https://www.scriptable.app/">
-        <img width=120" src="images/scriptable.png">
-    </a>
-</p>
-
 # Awesome Scriptable
 
 A curated list of awesome [Scriptable](https://docs.scriptable.app/) resources and scripts
