@@ -44,3 +44,9 @@ Scriptable TestFlight Link: https://testflight.apple.com/join/uN1vTqxk
 <img src="images/purpleair.png" height="120"/>
 
 - [PurpleAir-AQI-Scriptable-Widget](https://github.com/jasonsnell/PurpleAir-AQI-Scriptable-Widget) by [@jasonsell](https://github.com/jasonsnell)
+
+***
+
+<img src="images/gitlab-stats.png" height="120"/>
+
+- [GitLab Stats Widget](https://github.com/p0fi/gitlab-stats-for-scribtable) by [@p0fi](https://github.com/p0fi)
