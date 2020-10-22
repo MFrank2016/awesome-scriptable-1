@@ -50,3 +50,15 @@ Scriptable TestFlight Link: https://testflight.apple.com/join/uN1vTqxk
 <img src="images/gitlab-stats.png" height="120"/>
 
 - [GitLab Stats Widget](https://github.com/p0fi/gitlab-stats-for-scribtable) by [@p0fi](https://github.com/p0fi)
+
+***
+
+<img src="images/PlexStreamsWidget.png" height="120"/>
+
+- [PlexStreamsWidget](https://github.com/au5ton/scriptable.app/tree/main/PlexStreamsWidget) by [@au5ton](https://github.com/au5ton)
+
+***
+
+<img src="images/MinecraftServerWidget.png" height="120"/>
+
+- [MinecraftServerWidget](https://github.com/au5ton/scriptable.app/tree/main/MinecraftServerWidget) by [@au5ton](https://github.com/au5ton)
